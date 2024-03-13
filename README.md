@@ -102,9 +102,7 @@ Durante la ejecución del proyecto, se han generado los siguientes archivos:
    - **Página de Accidentes**: Muestra la ocurrencia de siniestros viales, ya sea accidentes fatales, con lesiones graves o lesiones leves. Permite identificar la comuna donde son más frecuentes los siniestros, así como los años de mayor incidencia. Esta información es crucial para que el gobierno de Buenos Aires implemente medidas preventivas y correctivas eficaces.
 
    - **Página de Víctimas**: Exhibe el perfil de las víctimas de accidentes fatales y lesiones. Se observa que las víctimas son mayormente de sexo masculino, con edades entre 19 y 39 años. Además, se identifica que muchas de las víctimas son conductores de motocicletas y peatones. Conocer el perfil de las víctimas orienta los esfuerzos para reducir la cantidad de víctimas y siniestros.
-
-   - **Página de Comparación**: Realiza una evaluación comparativa de los accidentes fatales ocurridos a lo largo de los años tanto en la capital de la vecina República del Uruguay como en la Ciudad Autónoma de Buenos Aires (CABA). Además, examina y contrasta el marco jurídico que distingue a ambos países en relación con estos incidentes.
-   
+  
    - **Página de KPI**: Presenta los Indicadores Clave de Rendimiento (KPI) que evalúan las acciones gubernamentales para disminuir siniestros y víctimas. Los KPIs incluyen:
 
       - *Tasa de Homicidios*: Reducción del 10% en la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con el semestre anterior.
@@ -112,22 +110,6 @@ Durante la ejecución del proyecto, se han generado los siguientes archivos:
       - *Accidentes Mortales de Motociclistas*: Reducción del 7% en la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior.
 
    El dashboard en Power BI ofrece una visión clara y concisa de la problemática de los siniestros viales, permitiendo tomar decisiones basadas en datos para reducir su incidencia y proteger a las víctimas.
-
-5. **Conclusiones**
-
-La ciudad de Buenos Aires cuenta con un plan de gestión de tránsito que puede ser complementado con las siguientes recomendaciones, derivadas de los hallazgos encontrados en cada una de las páginas del dashboard:
-
-+ *Página de Hechos*:
-  - Evaluar diversas alternativas de circulación en las principales avenidas.
-  - Implementar carteles con mensajes variables en los semáforos para conductores, activándolos solo durante las señales rojas para evitar distracciones.
-  - Fomentar el uso del transporte público.
-  - Aumentar la presencia de agentes de control de tránsito en horas pico.
-  - Considerar carriles exclusivos para motocicletas según viabilidad.
-
-+ *Página de Víctimas*:
-  - Definir pasos peatonales bien establecidos.
-  - Instalar carteles informativos y preventivos para peatones.
-  - Verificar el uso de implementos de seguridad en usuarios de motocicletas.
 
 
 ## Autor
