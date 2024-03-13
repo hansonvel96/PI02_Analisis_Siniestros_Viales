@@ -40,7 +40,7 @@ La ciudad de Buenos Aires, al igual que muchas capitales a nivel mundial, se enc
 
 ## Estructura del Repositorio 
 
--   **[Datasets](Datasets)**: Es la carpeta que contiene los datasets utilizados en el proyecto, tanto los provistos por la cátedra como los generados durante el desarrollo del proyecto. A su vez, en esta carpeta se encuentran los archivos jupyter notebook [Uruguay](Datasets/4-Uruguay.ipynb) y [KPI](Datasets/5-KPIs.ipynb) los cuales realizan procesamientos extras que sirven para el desarrollo del dashboard en Power BI.
+-   **[Datasets](Datasets)**: Es la carpeta que contiene los datasets utilizados en el proyecto, tanto los provistos por la cátedra como los generados durante el desarrollo del proyecto. A su vez, en esta carpeta se encuentran el archivo jupyter notebook [KPI](Datasets/5-KPIs.ipynb) los cuales realizan procesamientos extras que sirven para el desarrollo del dashboard en Power BI.
 
 -   **[ETL](1-ETL.ipynb)**: Es el archivo en donde se cargan de datos y realizan algunas transformaciones.
 
@@ -73,25 +73,25 @@ Durante la ejecución del proyecto, se han generado los siguientes archivos:
 
    De los gráficos se pueden realizar observaciones como las siguientes:
 
-   <p align="center">     <img src= "Imágenes/comuna.png" </p>
+   <p align="center">     <img src= "Diseño/comuna.png" </p>
 
    - La comuna 1 es la que tiene mayor cantidad de siniestros viales debido a que está compuesta por barrios como Retiro, San Nicolás y Puerto Madero, los cuales son áreas de alto tránsito vehicular por ser zonas turísticas y de oficinas. 
-   <p align="center">     <img src= "Imágenes/via.png" </p>
+   <p align="center">     <img src= "Diseño/via.png" </p>
 
    - La mayor cantidad de siniestros viales se da en Avenidas
 
    <div align="center">
-    <img src="Imágenes/vehiculo_acusado.png" alt="Vehículo Acusado">
-    <img src="Imágenes/vehiculo_victima.png" alt="Vehículo Víctima">
+    <img src="Diseño/vehiculo_acusado.png" alt="Vehículo Acusado">
+    <img src="Diseño/vehiculo_victima.png" alt="Vehículo Víctima">
 </div>
 
 - En gran medida los accidentes son ocasionados por automovilistas y las víctimas son motociclistas.
 
-<p align="center">     <img src= "Imágenes/sexo.png" </p>
+<p align="center">     <img src= "Diseño/sexo.png" </p>
 
 - En lo que a sexo concierne, los hombres son los que más se ven involucrados en siniestros viales.
 
-<p align="center">     <img src= "Imágenes/rango_etario.png" </p>
+<p align="center">     <img src= "Diseño/rango_etario.png" </p>
 
 - Las personas entre 19 y 39 años son las más propensas a protagonizar accidentes de tránsito.
 
