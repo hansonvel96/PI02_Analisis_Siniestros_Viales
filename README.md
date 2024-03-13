@@ -1,6 +1,3 @@
-# PI02_Analisis_Siniestros_Viales
- Proyecto 2
-
 <p align=center><img src='https://static.lajornadaestadodemexico.com/wp-content/uploads/2022/08/Siniestros-viales.jpg' height = 400><p>
 
 
